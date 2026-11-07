@@ -1,0 +1,11 @@
+{
+  "org": "beeware",
+  "repo": "duvet",
+  "versions": [
+    {
+      "commit": "b2058f36235425cbd4e7faf430d20d250cd7454b",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:07:47.170485+00:00"
+    }
+  ]
+}
