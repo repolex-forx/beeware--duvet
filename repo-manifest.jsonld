@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beeware/duvet/commit/b2058f36235425cbd4e7faf430d20d250cd7454b",
       "git:hexsha": "b2058f36235425cbd4e7faf430d20d250cd7454b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/beeware/duvet/commit/058262129cead4d5d0ec56ce6c641eefc58fb608",

@@ -1,0 +1,7 @@
+[2026-11-07T12:07:03Z] === AST ITERATION 1 START | repo=beeware/duvet sha=b2058f36 ===
+[2026-11-07T12:07:03Z] [iter=1] PHASE START: ast repo=beeware/duvet sha=b2058f36
+[2026-11-07T12:07:03Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T12:07:07Z] [iter=1] AST chunks built count=1 triples=36658
+[2026-11-07T12:07:07Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/b2058f36235425cbd4e7faf430d20d250cd7454b/.complete
+[2026-11-07T12:07:07Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-11-07T12:07:07Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
